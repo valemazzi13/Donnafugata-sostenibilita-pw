@@ -13,7 +13,7 @@ La pagina consente:
 ## Sito web
  [https://valemazzi13.github.io/Donnafugata-sostenibilita-pw/]
 
-## 🛠️ Tecnologie utilizzate
+## Tecnologie utilizzate
 - HTML5
 - CSS3
 
